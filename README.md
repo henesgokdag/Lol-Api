@@ -1,1 +1,2 @@
 # Lol_Api
+Bu projede Riot Games'in League of Legends oyunuyla alakalı istatistiki verilere ulaşmayı sağlayan Resmi Api hizmetinden alınan veriler işlenmektedir. Oyunu oynayan oyuncunun profil bilgileri ve oynadığı son oyunlar hakkındaki bilgileri elde etmeye çalışan projedir.
